@@ -1,0 +1,53 @@
+.class-one{
+	background-color: lightblue;
+	height: 150px;
+	width: 500px;
+	text-align: center;
+}
+
+.class-one
+	<style>
+	body{
+text-align: center;
+	}
+</style>
+
+.class-two{
+	background-color: lightblue;
+	text-align: center;
+	height: 150px;
+	width: 500px;
+}
+
+.class-two
+	<style>
+	body{
+text-align: center;
+	}
+</style>
+
+.class-three{
+	background-color: pink;
+	height: 150px;
+	width: 500px;
+}
+
+.class-three
+	<style>
+	body{
+text-align: center;
+	}
+</style>
+
+.class-four{
+	background-color: green;
+	height: 150px;
+	width: 500px;
+}
+
+.class-four
+	<style>
+	body{
+text-align: center;
+	}
+</style>
